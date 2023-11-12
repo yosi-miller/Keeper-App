@@ -8,5 +8,5 @@ function Footer() {
     </footer>
   );
 }
-
+//טסט
 export default Footer;
